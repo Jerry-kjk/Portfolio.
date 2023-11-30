@@ -1,0 +1,68 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Jerry Mwant",
+      "age": "50 years",
+      "mobile_number": "0726423169",
+      "email": "jerrymwant@gmail.com",
+      "address": "Kilimani"
+    },
+    {
+      "id": 2,
+      "name": "Uhuru Samson",
+      "age": "38 years",
+      "mobile_number": "0787502161",
+      "email": "samsonuhuru@gmail.com",
+      "address": "Ngong"
+    },
+    {
+      "id": 3,
+      "name": "James Khamala",
+      "age": "30 years",
+      "mobile_number": "0748286639",
+      "email": "jameskhamala@gmail.com",
+      "address": "Kasarani"
+    },
+    {
+      "id": 4,
+      "name": "Anitha Kiprimo",
+      "age": "28 years",
+      "mobile_number": "0720351197",
+      "email": "anithakiprimo@gmail.com",
+      "address": "Roysambo"  
+    },
+    {
+      "id": 5,
+      "name": "Peter Mugo",
+      "age": "50 years",
+      "mobile_number": "0722579395",
+      "email": "peter.mugo@gmail.com",
+      "address": "Kahawa"
+    },
+    {
+      "id": 6,
+      "name": "Glory Kipchoge",
+      "age": "57 years",
+      "mobile_number": "0758930229",
+      "email": "glorykip@gmail.com",
+      "address": "Umoja"
+    },
+    {
+      "id": 7,
+      "name": "Julius Ruto",
+      "age": "25 years",
+      "mobile_number": "0746931931",
+      "email": "jruto@gmail.com",
+      "address": "Mirema"
+    },
+    {
+      "id": 8,
+      "name": "Koffi Hannan",
+      "age": "45 years",
+      "mobile_number": "0747391140",
+      "email": "koffihannan@gmail.com",
+      "address": "Mwiki"
+    }
+  ]
+}

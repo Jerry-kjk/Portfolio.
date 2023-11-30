@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List of Patients</title>
+    <link rel="stylesheet" href="src/styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  </head>
+  <body>
+    <div id="container">
+      <div id="navbar">
+        <h3>Doctor JEREMY's Office</h3>
+        <ul>
+         
+          <li>Home</li>
+          <li>Service</li>
+          <li>About</li>
+          <li>Contacts</li>
+        </ul>
+
+        <div class="search-box">
+          <button class="btn-search"><i class="fas fa-search"></i></button>
+          <input type="text" class="input-search" placeholder="Type to Search...">
+        </div>
+              
+      </div>
+      <div id="landing1">
+        <div class="card" id="">
+          <h5>Patients Names</h5>
+          <div id="listpatients"></div>
+        </div>
+        <div class="card card1" id="display">
+          <h4>
+            Name
+            <h5 id="name"></h5>
+          </h4>
+          <h4>
+            Age
+            <h5 id="age"></h5>
+          </h4>
+          <h4>
+            Mobile Number
+            <h5 id="mobile"></h5>
+          </h4>
+          <h4>
+            Email
+            <h5 id="mail"></h5>
+          </h4>
+          <h4>
+            Address
+            <h5 id="address"></h5>
+          </h4>
+          <h4>
+            Patients
+            <h5 id="patient"></h5>
+          </h4>          
+        </div>
+        <div id="formDiv">
+          <form id="form">
+            <label for="">Patients name: </label>
+            <input id="add" type="text" placeholder="Enter name" id="name" required>
+            <input class="btn btn-outline-dark" id="button" value="Add Client" type="submit">
+          </form>
+        </div>
+      </div>
+      <footer>
+        <p>
+          Created with <i class="fa fa-heart"></i> by
+          <a target="_blank" href="#">Jerry KAJIK</a>
+          Follow me : 
+            <a target="_blank"  href="#"><i class="fab fa-instagram"></i></a>
+            <a target="_blank" href="#"><i class="fab fa-facebook"></i></a> 
+            <a target="_blank"  href="#"><i class="fab fa-linkedin"></i></a>
+            <a target="_blank" href="#"><i class="fab fa-github"></i></a> 
+            <a target="_blank" href="#"><i class="fab fa-twitter-square"></i></a> 
+        </p>
+      </footer>
+    </div>
+    <script src="js/index.js"></script>
+  </body>
+</html>
