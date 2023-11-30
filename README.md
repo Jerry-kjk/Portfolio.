@@ -47,7 +47,7 @@ For any contributions advices towards this project or other projects:
 * Email: jerrykajik@gmail.com
 * Phone: 0703942636
 # License
-Copyright (c) 2022 Moringa School
+Copyright (c) 2023 Jeremy KAJIK
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
